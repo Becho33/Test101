@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Design</title>
+    </head>
+    <body>
+        <h1>Web design</h1>
+            <p>We create a design of web page that inspires credibility and trust , 
+            bringing you the customers that would normally be lost with lack of 
+            attention to detail. </p>
+            <p>We can take the ordenary site and make it pleaseing to the eye, 
+            revamping your curent site and making it shine so  you potentially 
+            increase your sales audience.</p>
+            <p>We focus on the big picture as well as the minute details. we look at aspects such as page alighnment, 
+            colors, use of grammer, as well as how credibale the site looks from a customer point of view. our aim 
+            is to stream line operations </p>
+        <h1>Hosting</h1>
+            <p>With our hosing you get space on our secure hosing server, phone tech support and changes to site as 
+                and when you need it </p>
+
+        <h2>Price list</h2>
+
+            <ul>Web site upgrade $600</ul> 
+            <ul>Just re-writting of text $400</ul>
+            <ul>website design, first month hosting, registration, launch and text content $1400</ul>
+            <ul>Hosting with phone support will cost $15 per month</ul>
+            <ul>Hosting with full phone support and editorial changes $30 per month</ul>
+
+         <!-- Include some website examples or make them, 
+         ... add some trippy design to the page... plan out proper css for this page
+        re edit the text... add hyper links ... make the page interactive-->
+
+
+
+ 
+    </body>
+</html>
